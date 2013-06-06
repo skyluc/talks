@@ -1,0 +1,31 @@
+/*
+
+#084159
+#627886
+#7bdcf5
+#e6faff
+
+#ee6768
+
+*/
+
+
+
+.logoslide img {
+  width: 500px;
+  height: 330px;
+}
+
+h2 {
+  font-size: 64px;
+  color: #084159;
+}
+
+h3 {
+  font-size: 52px;
+  color: #797979;
+}
+
+slides > slide {
+  font-size: 36px;
+}
