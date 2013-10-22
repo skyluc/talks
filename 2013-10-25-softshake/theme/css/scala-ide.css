@@ -1,0 +1,56 @@
+/*
+
+#084159
+#627886
+#7bdcf5
+#e6faff
+
+#ee6768
+
+*/
+
+
+
+.logoslide img {
+  height: 90%;
+}
+
+aside.gdbar img {
+  width: 56px;
+  height: 85px;
+  position: absolute;
+  right: 0;
+  margin: 8px 15px;
+}
+
+h2 {
+  font-size: 64px;
+  color: #084159;
+}
+
+h3 {
+  font-size: 52px;
+  color: #797979;
+}
+
+slides > slide {
+  font-size: 36px;
+}
+
+.img_center {
+  height: 95%;
+  width: auto;
+}
+
+.content_top_left {
+  position: absolute;
+  top: 25%;
+  left: 15%;
+}
+
+.content_bottom_right {
+  position: absolute;
+  bottom: 15%;
+  right: 15%;
+  text-align: right;
+}
