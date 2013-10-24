@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Scala en action',
+    title: '<span class="red">Scala</span> en action',
     subtitle: '',
     eventInfo: {
       title: 'Soft-Shake',
