@@ -49,4 +49,9 @@ slides > slide {
   bottom: 15%;
   right: 15%;
   text-align: right;
+  background-color: white;
+}
+
+.content_bottom_right a:visited {
+  color: black;
 }
